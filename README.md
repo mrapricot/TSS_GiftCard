@@ -3,7 +3,6 @@
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 [![Coverage](https://img.shields.io/badge/Coverage-97.8%25-brightgreen.svg)](./coverage-html/index.html)
 [![Tests](https://img.shields.io/badge/Tests-82%20passed-brightgreen.svg)](#rezultate-finale)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Rezumat 
 
